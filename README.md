@@ -135,10 +135,10 @@ Request body:
 
 ```json
 {
-  "name": "Kaio",
-  "email": "kaio@email.com",
+  "name": "Myname",
+  "email": "Myname@email.com",
   "password": "myPassword123",
-  "avatar": "https://example.com/avatar.png"
+  "avatar": "https://example.com/avatar.com"
 }
 ```
 
@@ -152,7 +152,7 @@ Request body:
 
 ```json
 {
-  "email": "kaio@email.com",
+  "email": "Myname@email.com",
   "password": "myPassword123"
 }
 ```
@@ -187,7 +187,7 @@ Request body:
 
 ```json
 {
-  "name": "Kaio Rocha"
+  "name": "Myname"
 }
 ```
 
@@ -199,7 +199,7 @@ Request body:
 
 ```json
 {
-  "avatar": "https://example.com/avatar.png"
+  "avatar": "https://example.com/avatar.com"
 }
 ```
 
@@ -218,7 +218,7 @@ Example request body:
 ```json
 {
   "name": "City map",
-  "image": "https://example.com/map-preview.jpg",
+  "image": "https://example.com/map-preview.com",
   "map": {
     "layers": [
       {
